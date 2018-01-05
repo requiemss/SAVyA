@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SAVyA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mauro
+Implementation-Vendor-Id: Mauro
+Created-By: IntelliJ IDEA
+Build-Jdk: 9.0.1
+Main-Class: ${start-class}
+
